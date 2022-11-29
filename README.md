@@ -1,3 +1,13 @@
+# Prueba 2
+
+# Programacion IV
+# Josue David Machado Maldonado
+# 62011330
+
+### Diagrama de Clases
+!["Diagrama de Clases"]( https://app.genmymodel.com/api/projects/_LRJ0YG9-Ee2ck8ytUMEi6A/diagrams/_LRKbcm9-Ee2ck8ytUMEi6A/svg)
+
+
 # seleccion_personal
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
